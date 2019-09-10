@@ -1,0 +1,24 @@
+.home-container{
+    position: relative;
+    display: grid;
+}
+.head{
+    position: absolute;
+    left: 2%;
+    top: 350px;
+    display: grid;
+    grid-gap: 20px;
+    background: whitesmoke;
+    border-radius: 5px;
+    width: 380px;
+}
+.top-followers{
+    display: flex;
+    align-items: center;
+   
+}
+.top-followers h4{
+    margin-right: 170px;
+    margin-left: 10px;
+    
+}

@@ -1,0 +1,44 @@
+.follower-container{
+    background: none;
+    position: absolute;
+    top: 285px;
+    left: 2%;
+}
+.top-btns{
+    display: flex;
+}
+.butt{
+    height: 40px;
+    width: 250px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    display: flex;
+    margin-left: 2%;
+    margin-right: 40px;
+
+}
+.butt .btn{
+    height: 40px;
+    width: 83px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.butt .btn1{
+    height: 40px;
+    width: 83px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10%;
+  
+}
+.weekly small{
+    height: 40px;
+    width: 83px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 3px;
+}
